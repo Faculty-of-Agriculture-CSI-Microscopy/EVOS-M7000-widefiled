@@ -4,11 +4,11 @@
 ## Quick Start Guide
 
 ### 1. Turn on the EVOS™ M7000 Imaging System
+- <span style="color: red;">&#9888; **Caution:** Ensure the objective is set to the smallest magnification (4X) to avoid damage to the microscope.</span>
 - **Step 1:** Turn the instrument power switch located at the back of the instrument base to the ON position.
 - **Step 2:** Turn the computer and monitor ON.
 - **Step 3:** When the computer shows the Windows™ desktop and the X-Y stage has stopped moving, click the M7000 icon to start the EVOS™ M7000 software.
 - **Step 4:** The Capture tab will be displayed, indicating that the system is ready to use.
-- <span style="color: red;">&#9888; **Caution:** Ensure the objective is set to the smallest magnification (4X) to avoid damage to the microscope.</span>
 
 ### 2. Select Sample Vessel
 - **Step 1:** Place the vessel containing your sample on the stage using the appropriate vessel holder.
@@ -90,7 +90,7 @@
 - **Step 6:** After selecting save options for your captured images, click Save.
 
 ### 2. Turn off the EVOS™ M7000 Imaging System
+- <span style="color: red;">&#9888; **Caution:** Ensure the objective is set to the smallest magnification (4X) before turning off the microscope to avoid damage.</span>
 - **Step 1:** Exit the EVOS™ M7000 software.
 - **Step 2:** Turn off the computer and monitor.
-- **Step 3:** Turn the instrument power switch located at the back of the instrument base to the OFF position.
-- <span style="color: red;">&#9888; **Caution:** Ensure the objective is set to the smallest magnification (4X) before turning off the microscope to avoid damage.</span>
+- **Step 3:** Turn the instrument power switch at the back of the instrument base to the OFF position.
