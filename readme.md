@@ -75,6 +75,8 @@
 - **Step 1:** When finished capturing images, click Save… to open the Save window.
 - **Step 2:** Select the captured fields you wish to save.
 - **Step 3:** Click Browse, navigate to the desired folder, then click Select. To create a new folder, navigate to the desired location, click New, type in the name of the newly created folder, then click Select.
+> [!IMPORTANT]
+> Save images to the image analysis server: `Z:/projects/your_lab_folder`
 - **Step 4:** If desired, type the prefix you wish to use for your saved images in the File name prefix textbox.
 - **Step 5:** Select File types to save by checking the corresponding checkboxes. You can choose multiple file types for your captured images.
 > [!TIP]
