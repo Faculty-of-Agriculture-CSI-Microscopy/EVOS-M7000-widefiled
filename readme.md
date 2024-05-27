@@ -46,6 +46,10 @@
 - **Step 2:** Click the Image Display settings button to expand the image display controls for the selected channels.
 - **Step 3:** Adjust the Brightness, Contrast, and Gamma settings for each of the selected channels using the corresponding sliders.
 - **Step 4:** Click the Image Display settings button again to collapse the controls.
+> [!TIP]
+> When viewing dark channels like DAPI, it is recommended to view them in grayscale, and not in blue (pseudocolor).
+> You can toggle (LUT) between these modes with the color display button <img width="18" alt="2024-05-27_19h01_45" src="https://github.com/Faculty-of-Agriculture-CSI-Microscopy/EVOS-M7000-widefiled/assets/55537771/7f7d701d-d1fa-4f1e-94ba-39e811ec6986">.
+
 
 ### 7. Focus on the Sample
 - **Step 1:** Click Autofocus to run the autofocus procedure to find the best focal plane for the current channel and sample.
