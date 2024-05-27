@@ -1,7 +1,7 @@
 ## Last Updated: 2024-05-26
 # EVOS™ M7000 Imaging System Quick Start and Shutdown Guide
 
-## Quick Start Guide
+## Quick Start Guide - For detailed instructions, refer to the [EVOS M7000 Quick Reference Guide](https://github.com/Faculty-of-Agriculture-CSI-Microscopy/EVOS-M7000-widefiled/blob/master/MAN0018380_EVOS_M7000_QR.pdf).
 
 ### 1. Turn on the EVOS™ M7000 Imaging System
 - <span style="color: red;">&#9888; **Caution:** Ensure the objective is set to the smallest magnification (4X) to avoid damage to the microscope.</span>
