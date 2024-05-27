@@ -4,7 +4,9 @@
 ## Quick Start Guide - For detailed instructions, refer to the [EVOS M7000 Quick Reference Guide](https://github.com/Faculty-of-Agriculture-CSI-Microscopy/EVOS-M7000-widefiled/blob/master/MAN0018380_EVOS_M7000_QR.pdf).
 
 ### 1. Turn on the EVOS™ M7000 Imaging System
-- <span style="color: red;">&#9888; **Caution:** Ensure the objective is set to the smallest magnification (4X) to avoid damage to the microscope.</span>
+> [!Caution]
+> Ensure the objective is set to the smallest magnification (4X) to avoid damage to the microscope.
+
 - **Step 1:** Turn the instrument power switch located at the back of the instrument base to the ON position.
 - **Step 2:** Turn the computer and monitor ON.
 - **Step 3:** When the computer shows the Windows™ desktop and the X-Y stage has stopped moving, click the M7000 icon to start the EVOS™ M7000 software.
@@ -75,6 +77,8 @@
 - **Step 3:** Click Browse, navigate to the desired folder, then click Select. To create a new folder, navigate to the desired location, click New, type in the name of the newly created folder, then click Select.
 - **Step 4:** If desired, type the prefix you wish to use for your saved images in the File name prefix textbox.
 - **Step 5:** Select File types to save by checking the corresponding checkboxes. You can choose multiple file types for your captured images.
+> [!TIP]
+> `.tiff` would be the default recommendation for saving RAW data. `.jpeg` is a good option for presentation slides and web pages.
 
 | File Type          | Description                                                                         | Options                                       |
 |--------------------|-------------------------------------------------------------------------------------|-----------------------------------------------|
@@ -90,7 +94,9 @@
 - **Step 6:** After selecting save options for your captured images, click Save.
 
 ### 2. Turn off the EVOS™ M7000 Imaging System
-- <span style="color: red;">&#9888; **Caution:** Ensure the objective is set to the smallest magnification (4X) before turning off the microscope to avoid damage.</span>
+> [!Caution]
+> Ensure the objective is set to the smallest magnification (4X) to avoid damage to the microscope.
+
 - **Step 1:** Exit the EVOS™ M7000 software.
 - **Step 2:** Turn off the computer and monitor.
 - **Step 3:** Turn the instrument power switch at the back of the instrument base to the OFF position.
